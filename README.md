@@ -65,19 +65,6 @@ You can deploy this application to GitHub Pages, Vercel, or Netlify. For GitHub 
    https://Makc240305.github.io/Counter-App/
    ```
 
-## File Structure
-
-```
-├── src
-│   ├── App.jsx          # Main application component
-│   ├── index.scss       # Styling with SCSS
-│   └── main.jsx         # Application entry point
-├── public
-│   └── index.html       # HTML template
-├── package.json         # Project metadata and dependencies
-└── vite.config.js       # Vite configuration
-```
-
 ## SCSS Styling
 
 The application is styled using SCSS. Key features include:
